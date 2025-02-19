@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "my_website_assets": {
+      "type": "assets",
+      "source": ["src/my_website_assets"]
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
+
